@@ -1,0 +1,29 @@
+c:\users\admin-pc\documents\visual studio 2017\Projects\Fighters\Fighters\bin\Debug\Fighters.exe.config
+c:\users\admin-pc\documents\visual studio 2017\Projects\Fighters\Fighters\bin\Debug\Fighters.exe
+c:\users\admin-pc\documents\visual studio 2017\Projects\Fighters\Fighters\bin\Debug\Fighters.pdb
+c:\users\admin-pc\documents\visual studio 2017\Projects\Fighters\Fighters\obj\Debug\Fighters.csprojResolveAssemblyReference.cache
+c:\users\admin-pc\documents\visual studio 2017\Projects\Fighters\Fighters\obj\Debug\Fighters.exe
+c:\users\admin-pc\documents\visual studio 2017\Projects\Fighters\Fighters\obj\Debug\Fighters.pdb
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\Fighters\bin\Debug\FighterLogic.dll
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\Fighters\bin\Debug\FighterLogic.pdb
+G:\Fighters\Fighters\obj\Debug\Fighters.csprojResolveAssemblyReference.cache
+G:\Fighters\Fighters\obj\Debug\Fighters.exe
+G:\Fighters\Fighters\obj\Debug\Fighters.pdb
+D:\C#\Fighters\Fighters\bin\Debug\Fighters.exe.config
+D:\C#\Fighters\Fighters\bin\Debug\Fighters.exe
+D:\C#\Fighters\Fighters\bin\Debug\Fighters.pdb
+D:\C#\Fighters\Fighters\bin\Debug\FighterLogic.dll
+D:\C#\Fighters\Fighters\bin\Debug\FighterLogic.pdb
+D:\C#\Fighters\Fighters\bin\Debug\FighterLogic.dll.config
+D:\C#\Fighters\Fighters\obj\Debug\Fighters.csprojResolveAssemblyReference.cache
+D:\C#\Fighters\Fighters\obj\Debug\Fighters.exe
+D:\C#\Fighters\Fighters\obj\Debug\Fighters.pdb
+E:\Visual Project\Fighters\Fighters\bin\Debug\Fighters.exe.config
+E:\Visual Project\Fighters\Fighters\bin\Debug\Fighters.exe
+E:\Visual Project\Fighters\Fighters\bin\Debug\Fighters.pdb
+E:\Visual Project\Fighters\Fighters\bin\Debug\FighterLogic.dll
+E:\Visual Project\Fighters\Fighters\bin\Debug\FighterLogic.pdb
+E:\Visual Project\Fighters\Fighters\bin\Debug\FighterLogic.dll.config
+E:\Visual Project\Fighters\Fighters\obj\Debug\Fighters.csprojResolveAssemblyReference.cache
+E:\Visual Project\Fighters\Fighters\obj\Debug\Fighters.exe
+E:\Visual Project\Fighters\Fighters\obj\Debug\Fighters.pdb

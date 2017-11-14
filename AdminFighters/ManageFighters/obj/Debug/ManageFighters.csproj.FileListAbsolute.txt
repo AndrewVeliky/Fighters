@@ -1,0 +1,42 @@
+E:\Visual Project\ManageFighters\ManageFighters\bin\Debug\ManageFighters.exe.config
+E:\Visual Project\ManageFighters\ManageFighters\bin\Debug\ManageFighters.exe
+E:\Visual Project\ManageFighters\ManageFighters\bin\Debug\ManageFighters.pdb
+E:\Visual Project\ManageFighters\ManageFighters\bin\Debug\EntityFramework.dll
+E:\Visual Project\ManageFighters\ManageFighters\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Project\ManageFighters\ManageFighters\bin\Debug\EntityFramework.xml
+E:\Visual Project\ManageFighters\ManageFighters\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Project\ManageFighters\ManageFighters\obj\Debug\ManageFighters.csprojResolveAssemblyReference.cache
+E:\Visual Project\ManageFighters\ManageFighters\obj\Debug\ManageFighters.Properties.Resources.resources
+E:\Visual Project\ManageFighters\ManageFighters\obj\Debug\ManageFighters.csproj.GenerateResource.Cache
+E:\Visual Project\ManageFighters\ManageFighters\obj\Debug\ManageFighters.exe
+E:\Visual Project\ManageFighters\ManageFighters\obj\Debug\ManageFighters.pdb
+E:\Visual Project\ManageFighters\ManageFighters\obj\Debug\ManageFighters.FighterForm.resources
+E:\Visual Project\ManageFighters\ManageFighters\obj\Debug\ManageFighters.FighterAdmin.resources
+D:\C#\ManageFighters\ManageFighters\bin\Debug\ManageFighters.exe.config
+D:\C#\ManageFighters\ManageFighters\bin\Debug\ManageFighters.exe
+D:\C#\ManageFighters\ManageFighters\bin\Debug\ManageFighters.pdb
+D:\C#\ManageFighters\ManageFighters\bin\Debug\EntityFramework.dll
+D:\C#\ManageFighters\ManageFighters\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\ManageFighters\ManageFighters\bin\Debug\EntityFramework.xml
+D:\C#\ManageFighters\ManageFighters\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\ManageFighters\ManageFighters\obj\Debug\ManageFighters.csprojResolveAssemblyReference.cache
+D:\C#\ManageFighters\ManageFighters\obj\Debug\ManageFighters.FighterForm.resources
+D:\C#\ManageFighters\ManageFighters\obj\Debug\ManageFighters.FighterAdmin.resources
+D:\C#\ManageFighters\ManageFighters\obj\Debug\ManageFighters.Properties.Resources.resources
+D:\C#\ManageFighters\ManageFighters\obj\Debug\ManageFighters.csproj.GenerateResource.Cache
+D:\C#\ManageFighters\ManageFighters\obj\Debug\ManageFighters.exe
+D:\C#\ManageFighters\ManageFighters\obj\Debug\ManageFighters.pdb
+E:\GitHub\Fighters\AdminFighters\ManageFighters\bin\Debug\ManageFighters.exe.config
+E:\GitHub\Fighters\AdminFighters\ManageFighters\bin\Debug\ManageFighters.exe
+E:\GitHub\Fighters\AdminFighters\ManageFighters\bin\Debug\ManageFighters.pdb
+E:\GitHub\Fighters\AdminFighters\ManageFighters\bin\Debug\EntityFramework.dll
+E:\GitHub\Fighters\AdminFighters\ManageFighters\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\Fighters\AdminFighters\ManageFighters\bin\Debug\EntityFramework.xml
+E:\GitHub\Fighters\AdminFighters\ManageFighters\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\Fighters\AdminFighters\ManageFighters\obj\Debug\ManageFighters.csprojResolveAssemblyReference.cache
+E:\GitHub\Fighters\AdminFighters\ManageFighters\obj\Debug\ManageFighters.FighterForm.resources
+E:\GitHub\Fighters\AdminFighters\ManageFighters\obj\Debug\ManageFighters.FighterAdmin.resources
+E:\GitHub\Fighters\AdminFighters\ManageFighters\obj\Debug\ManageFighters.Properties.Resources.resources
+E:\GitHub\Fighters\AdminFighters\ManageFighters\obj\Debug\ManageFighters.csproj.GenerateResource.Cache
+E:\GitHub\Fighters\AdminFighters\ManageFighters\obj\Debug\ManageFighters.exe
+E:\GitHub\Fighters\AdminFighters\ManageFighters\obj\Debug\ManageFighters.pdb

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FightersContextStoreContainer" CdmEntityContainer="FightersEntities1">
+    <EntitySetMapping Name="Fighters">
+      <EntityTypeMapping TypeName="FightersContext.Fighters">
+        <MappingFragment StoreEntitySet="Fighters">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Health" ColumnName="Health" />
+          <ScalarProperty Name="Damage" ColumnName="Damage" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FightHistories">
+      <EntityTypeMapping TypeName="FightersContext.FightHistories">
+        <MappingFragment StoreEntitySet="FightHistories">
+          <ScalarProperty Name="Bet" ColumnName="Bet" />
+          <ScalarProperty Name="FirstFighterId" ColumnName="FirstFighterId" />
+          <ScalarProperty Name="SecondFighterId" ColumnName="SecondFighterId" />
+          <ScalarProperty Name="WinnerId" ColumnName="WinnerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

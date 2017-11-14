@@ -1,0 +1,90 @@
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\bin\Debug\FightersForm.exe.config
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\bin\Debug\FightersForm.exe
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\bin\Debug\FightersForm.pdb
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\bin\Debug\FighterLogic.dll
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\bin\Debug\FighterLogic.pdb
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\obj\Debug\FightersForm.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\obj\Debug\FightersForm.Form1.resources
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\obj\Debug\FightersForm.Properties.Resources.resources
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\obj\Debug\FightersForm.csproj.GenerateResource.Cache
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\obj\Debug\FightersForm.exe
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FightersForm\obj\Debug\FightersForm.pdb
+D:\Fighters\FightersForm\bin\Debug\FightersForm.exe.config
+D:\Fighters\FightersForm\bin\Debug\FightersForm.exe
+D:\Fighters\FightersForm\bin\Debug\FightersForm.pdb
+D:\Fighters\FightersForm\bin\Debug\FighterLogic.dll
+D:\Fighters\FightersForm\bin\Debug\FighterLogic.pdb
+D:\Fighters\FightersForm\obj\Debug\FightersForm.csprojResolveAssemblyReference.cache
+D:\Fighters\FightersForm\obj\Debug\FightersForm.FightersForms.resources
+D:\Fighters\FightersForm\obj\Debug\FightersForm.Properties.Resources.resources
+D:\Fighters\FightersForm\obj\Debug\FightersForm.csproj.GenerateResource.Cache
+D:\Fighters\FightersForm\obj\Debug\FightersForm.exe
+D:\Fighters\FightersForm\obj\Debug\FightersForm.pdb
+G:\Fighters\FightersForm\bin\Debug\FightersForm.exe.config
+G:\Fighters\FightersForm\bin\Debug\FightersForm.exe
+G:\Fighters\FightersForm\bin\Debug\FightersForm.pdb
+G:\Fighters\FightersForm\bin\Debug\FighterLogic.dll
+G:\Fighters\FightersForm\bin\Debug\FighterLogic.pdb
+G:\Fighters\FightersForm\obj\Debug\FightersForm.csprojResolveAssemblyReference.cache
+G:\Fighters\FightersForm\obj\Debug\FightersForm.FightersForms.resources
+G:\Fighters\FightersForm\obj\Debug\FightersForm.Properties.Resources.resources
+G:\Fighters\FightersForm\obj\Debug\FightersForm.csproj.GenerateResource.Cache
+G:\Fighters\FightersForm\obj\Debug\FightersForm.exe
+G:\Fighters\FightersForm\obj\Debug\FightersForm.pdb
+G:\Fighters\FightersForm\obj\Debug\FightersForm.HeroInfo.resources
+D:\C#\Fighters\FightersForm\bin\Debug\FightersForm.exe.config
+D:\C#\Fighters\FightersForm\bin\Debug\FightersForm.exe
+D:\C#\Fighters\FightersForm\bin\Debug\FightersForm.pdb
+D:\C#\Fighters\FightersForm\bin\Debug\EntityFramework.dll
+D:\C#\Fighters\FightersForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Fighters\FightersForm\bin\Debug\FighterLogic.dll
+D:\C#\Fighters\FightersForm\bin\Debug\FighterLogic.pdb
+D:\C#\Fighters\FightersForm\bin\Debug\FighterLogic.dll.config
+D:\C#\Fighters\FightersForm\bin\Debug\EntityFramework.xml
+D:\C#\Fighters\FightersForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Fighters\FightersForm\bin\Debug\ru\EntityFramework.resources.dll
+D:\C#\Fighters\FightersForm\obj\Debug\FightersForm.csprojResolveAssemblyReference.cache
+D:\C#\Fighters\FightersForm\obj\Debug\FightersForm.FightersForms.resources
+D:\C#\Fighters\FightersForm\obj\Debug\FightersForm.HeroInfo.resources
+D:\C#\Fighters\FightersForm\obj\Debug\FightersForm.Properties.Resources.resources
+D:\C#\Fighters\FightersForm\obj\Debug\FightersForm.csproj.GenerateResource.Cache
+D:\C#\Fighters\FightersForm\obj\Debug\FightersForm.exe
+D:\C#\Fighters\FightersForm\obj\Debug\FightersForm.pdb
+E:\Visual Project\Fighters\FightersForm\bin\Debug\FightersForm.exe.config
+E:\Visual Project\Fighters\FightersForm\bin\Debug\FightersForm.exe
+E:\Visual Project\Fighters\FightersForm\bin\Debug\FightersForm.pdb
+E:\Visual Project\Fighters\FightersForm\bin\Debug\EntityFramework.dll
+E:\Visual Project\Fighters\FightersForm\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Project\Fighters\FightersForm\bin\Debug\FighterLogic.dll
+E:\Visual Project\Fighters\FightersForm\bin\Debug\FighterLogic.pdb
+E:\Visual Project\Fighters\FightersForm\bin\Debug\FighterLogic.dll.config
+E:\Visual Project\Fighters\FightersForm\bin\Debug\EntityFramework.xml
+E:\Visual Project\Fighters\FightersForm\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Project\Fighters\FightersForm\bin\Debug\ru\EntityFramework.resources.dll
+E:\Visual Project\Fighters\FightersForm\obj\Debug\FightersForm.csprojResolveAssemblyReference.cache
+E:\Visual Project\Fighters\FightersForm\obj\Debug\FightersForm.FightersForms.resources
+E:\Visual Project\Fighters\FightersForm\obj\Debug\FightersForm.HeroInfo.resources
+E:\Visual Project\Fighters\FightersForm\obj\Debug\FightersForm.Properties.Resources.resources
+E:\Visual Project\Fighters\FightersForm\obj\Debug\FightersForm.csproj.GenerateResource.Cache
+E:\Visual Project\Fighters\FightersForm\obj\Debug\FightersForm.exe
+E:\Visual Project\Fighters\FightersForm\obj\Debug\FightersForm.pdb
+E:\Visual Project\Fighters\FightersForm\obj\Debug\FightersForm.FightHistory.resources
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\FightersForm.exe.config
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\FightersForm.exe
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\FightersForm.pdb
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\EntityFramework.dll
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\FighterLogic.dll
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\FighterLogic.pdb
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\FighterLogic.dll.config
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\EntityFramework.xml
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\Fighters\Fighters\FightersForm\bin\Debug\ru\EntityFramework.resources.dll
+E:\GitHub\Fighters\Fighters\FightersForm\obj\Debug\FightersForm.csprojResolveAssemblyReference.cache
+E:\GitHub\Fighters\Fighters\FightersForm\obj\Debug\FightersForm.FightersForms.resources
+E:\GitHub\Fighters\Fighters\FightersForm\obj\Debug\FightersForm.FightHistory.resources
+E:\GitHub\Fighters\Fighters\FightersForm\obj\Debug\FightersForm.HeroInfo.resources
+E:\GitHub\Fighters\Fighters\FightersForm\obj\Debug\FightersForm.Properties.Resources.resources
+E:\GitHub\Fighters\Fighters\FightersForm\obj\Debug\FightersForm.csproj.GenerateResource.Cache
+E:\GitHub\Fighters\Fighters\FightersForm\obj\Debug\FightersForm.exe
+E:\GitHub\Fighters\Fighters\FightersForm\obj\Debug\FightersForm.pdb

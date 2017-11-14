@@ -1,0 +1,37 @@
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FighterLogic\bin\Debug\FighterLogic.dll
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FighterLogic\bin\Debug\FighterLogic.pdb
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FighterLogic\obj\Debug\FighterLogic.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FighterLogic\obj\Debug\FighterLogic.dll
+C:\Users\Admin-PC\documents\visual studio 2017\Projects\Fighters\FighterLogic\obj\Debug\FighterLogic.pdb
+D:\Fighters\FighterLogic\bin\Debug\FighterLogic.dll
+D:\Fighters\FighterLogic\bin\Debug\FighterLogic.pdb
+D:\Fighters\FighterLogic\obj\Debug\FighterLogic.csprojResolveAssemblyReference.cache
+D:\Fighters\FighterLogic\obj\Debug\FighterLogic.dll
+D:\Fighters\FighterLogic\obj\Debug\FighterLogic.pdb
+G:\Fighters\FighterLogic\bin\Debug\FighterLogic.dll
+G:\Fighters\FighterLogic\bin\Debug\FighterLogic.pdb
+G:\Fighters\FighterLogic\obj\Debug\FighterLogic.dll
+G:\Fighters\FighterLogic\obj\Debug\FighterLogic.pdb
+G:\Fighters\FighterLogic\obj\Debug\FighterLogic.csprojResolveAssemblyReference.cache
+D:\C#\Fighters\FighterLogic\bin\Debug\FighterLogic.dll.config
+D:\C#\Fighters\FighterLogic\bin\Debug\FighterLogic.dll
+D:\C#\Fighters\FighterLogic\bin\Debug\FighterLogic.pdb
+D:\C#\Fighters\FighterLogic\bin\Debug\EntityFramework.dll
+D:\C#\Fighters\FighterLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Fighters\FighterLogic\bin\Debug\EntityFramework.xml
+D:\C#\Fighters\FighterLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Fighters\FighterLogic\bin\Debug\ru\EntityFramework.resources.dll
+D:\C#\Fighters\FighterLogic\obj\Debug\FighterLogic.csprojResolveAssemblyReference.cache
+D:\C#\Fighters\FighterLogic\obj\Debug\FighterLogic.dll
+D:\C#\Fighters\FighterLogic\obj\Debug\FighterLogic.pdb
+E:\Visual Project\Fighters\FighterLogic\bin\Debug\FighterLogic.dll.config
+E:\Visual Project\Fighters\FighterLogic\bin\Debug\FighterLogic.dll
+E:\Visual Project\Fighters\FighterLogic\bin\Debug\FighterLogic.pdb
+E:\Visual Project\Fighters\FighterLogic\bin\Debug\EntityFramework.dll
+E:\Visual Project\Fighters\FighterLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Project\Fighters\FighterLogic\bin\Debug\EntityFramework.xml
+E:\Visual Project\Fighters\FighterLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Project\Fighters\FighterLogic\bin\Debug\ru\EntityFramework.resources.dll
+E:\Visual Project\Fighters\FighterLogic\obj\Debug\FighterLogic.csprojResolveAssemblyReference.cache
+E:\Visual Project\Fighters\FighterLogic\obj\Debug\FighterLogic.dll
+E:\Visual Project\Fighters\FighterLogic\obj\Debug\FighterLogic.pdb

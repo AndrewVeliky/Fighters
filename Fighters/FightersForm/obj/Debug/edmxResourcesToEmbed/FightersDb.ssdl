@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FightersContext.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Fighters">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="Health" Type="int" Nullable="false" />
+    <Property Name="Damage" Type="int" Nullable="false" />
+    <Property Name="Photo" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="FightHistories">
+    <Key>
+      <PropertyRef Name="Bet" />
+    </Key>
+    <Property Name="Bet" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="FirstFighterId" Type="nvarchar(max)" />
+    <Property Name="SecondFighterId" Type="nvarchar(max)" />
+    <Property Name="WinnerId" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="FightersContextStoreContainer">
+    <EntitySet Name="Fighters" EntityType="Self.Fighters" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FightHistories" EntityType="Self.FightHistories" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FightersModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Fighters">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Health" Type="Int32" Nullable="false" />
+    <Property Name="Damage" Type="Int32" Nullable="false" />
+    <Property Name="Photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="FightHistories">
+    <Key>
+      <PropertyRef Name="Bet" />
+    </Key>
+    <Property Name="Bet" Type="String" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstFighterId" Type="String" Nullable="false" />
+    <Property Name="SecondFighterId" Type="String" Nullable="false" />
+    <Property Name="WinnerId" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="FightersEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Fighters" EntityType="FightersModel.Fighters" />
+    <EntitySet Name="FightHistories" EntityType="Self.FightHistories" />
+  </EntityContainer>
+</Schema>
